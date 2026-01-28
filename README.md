@@ -1,1 +1,1 @@
-depot du tp git BTS SIO 
+Dépot pour le tp C'est un projet d'apprentissage pour git  
